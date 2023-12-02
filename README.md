@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Om Niraj
+- 👋 Hi, I’m Astha Singhal
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning c and python
 - 💞️ I’m looking to collaborate on cyber Security related projects
