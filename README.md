@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @justvs1
-- 👀 I’m interested in AI and automation
+- 👋 Hi, I’m Om Niraj
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning c and python
-- 💞️ I’m looking to collaborate on ai  related projects
+- 💞️ I’m looking to collaborate on cyber Security related projects
 - 📫 How to reach me (justvs48@gmail.com)
 
 <!---
